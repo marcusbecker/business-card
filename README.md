@@ -14,7 +14,7 @@ Oi, sou o Igor! Estou aqui para contribuir com meu conhecimento nesse aplicativo
 4. LiveData
 5. ListAdapter
 6. Material Design
-
+7. Pikolo library (Madrapps)
 
 ## <br />Descrição
 1. Preparação do ambiente e criação do nosso App
