@@ -1,4 +1,4 @@
-package br.com.dio.businesscard.ui
+package br.com.mbecker.ui
 
 import android.os.Bundle
 import android.util.Log
@@ -7,9 +7,9 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.graphics.BlendModeColorFilterCompat
 import androidx.core.graphics.BlendModeCompat
-import br.com.dio.businesscard.App
+import br.com.mbecker.App
 import br.com.dio.businesscard.R
-import br.com.dio.businesscard.data.BusinessCard
+import br.com.mbecker.data.BusinessCard
 import br.com.dio.businesscard.databinding.ActivityAddBusinessCardBinding
 import com.madrapps.pikolo.listeners.SimpleColorSelectionListener
 

@@ -1,4 +1,4 @@
-package br.com.dio.businesscard.data
+package br.com.mbecker.data
 
 import android.content.Context
 import androidx.room.Database

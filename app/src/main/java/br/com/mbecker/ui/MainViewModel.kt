@@ -1,10 +1,10 @@
-package br.com.dio.businesscard.ui
+package br.com.mbecker.ui
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import br.com.dio.businesscard.data.BusinessCard
-import br.com.dio.businesscard.data.BusinessCardRepository
+import br.com.mbecker.data.BusinessCard
+import br.com.mbecker.data.BusinessCardRepository
 
 class MainViewModel(private val businessCardRepository: BusinessCardRepository): ViewModel() {
 

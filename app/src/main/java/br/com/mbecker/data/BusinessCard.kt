@@ -1,4 +1,4 @@
-package br.com.dio.businesscard.data
+package br.com.mbecker.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

@@ -1,8 +1,8 @@
-package br.com.dio.businesscard
+package br.com.mbecker
 
 import android.app.Application
-import br.com.dio.businesscard.data.AppDatabase
-import br.com.dio.businesscard.data.BusinessCardRepository
+import br.com.mbecker.data.AppDatabase
+import br.com.mbecker.data.BusinessCardRepository
 
 class App : Application() {
     val database by lazy { AppDatabase.getDatabase(this) }

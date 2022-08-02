@@ -1,4 +1,4 @@
-package br.com.dio.businesscard.util
+package br.com.mbecker.util
 
 import android.content.ContentValues
 import android.content.Context

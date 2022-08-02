@@ -1,15 +1,13 @@
-package br.com.dio.businesscard.ui
+package br.com.mbecker.ui
 
 import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.core.graphics.BlendModeColorFilterCompat
-import androidx.core.graphics.BlendModeCompat
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import br.com.dio.businesscard.data.BusinessCard
+import br.com.mbecker.data.BusinessCard
 import br.com.dio.businesscard.databinding.ItemBusinessCardBinding
 
 class BusinessCardAdapter :
